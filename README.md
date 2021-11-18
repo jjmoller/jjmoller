@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jjmoller
 - 👀 I’m interested in CODING!
 - 🌱 I’m currently learning Golang!
-- 💞️ I’m looking to collaborate on ENDING GLOBAL WARMING!
+- 💞️ I’m looking to collaborate on BUILDING A SUSTAINABLE FUTURE
 - 📫 How to reach me: Try my email
 
 <!---
