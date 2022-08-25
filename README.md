@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jjmoller
-- 👀 I’m interested in CODING!
-- 🌱 I’m currently learning Golang!
+- 👀 I’m interested in front-end development and design!
+- 🌱 I’m currently learning JavaScript!
 - 💞️ I’m looking to collaborate on BUILDING A SUSTAINABLE FUTURE
 - 📫 How to reach me: Try my email
 
